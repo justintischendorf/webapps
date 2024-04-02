@@ -45,8 +45,8 @@
 
 .gliederung h2:hover {
     font-size: 4.2vh;
-    height: 37.5vh;
-    width: 37.5vh;
+    height: 37vh;
+    width: 37vh;
     box-shadow: 0 2.5vh 20vh black;
     border: 1.5vh double white;
     font-weight: bold;
@@ -61,7 +61,7 @@
 #thema1:hover {
     position: absolute;
     left: 27vw;
-    top: 39vh;
+    top: 40vh;
 }
 
 #thema2 {
@@ -73,7 +73,7 @@
 #thema2:hover {
     position: absolute;
     left: 42vw;
-    top: 19vh;
+    top: 17.5vh;
 }
 
 #thema3 {
@@ -85,7 +85,7 @@
 #thema3:hover {
     position: absolute;
     left: 57vw;
-    top: 39vh;
+    top: 40vh;
 }
 
 #thema4 {
@@ -97,7 +97,7 @@
 #thema4:hover {
     position: absolute;
     left: 42vw;
-    top: 53vh;
+    top: 55vh;
 }
 
 .eins {
